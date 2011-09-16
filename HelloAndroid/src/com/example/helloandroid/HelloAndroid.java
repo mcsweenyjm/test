@@ -8,8 +8,8 @@ public class HelloAndroid extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Object o = null;
-        o.toString();
+        Object p = null;
+        p.toString();
         setContentView(R.layout.main);
     }
 }
